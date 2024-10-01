@@ -9111,6 +9111,12 @@ repositories:
       url: https://github.com/IntelLabs/scenario_execution.git
       version: main
     status: maintained
+  schema_service_interfaces:
+    source:
+      type: git
+      url: ssh://git@gitlab.tochka.ai:16822/devices/schema_service_interfaces.git
+      version: master
+    status: maintained
   schunk_svh_library:
     doc:
       type: git
